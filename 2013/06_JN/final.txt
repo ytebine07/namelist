@@ -1,0 +1,61 @@
+[4A]
+semifinal 3rd
+semifinal 2nd
+semifinal 1st
+Yuudai-Kimura
+Syoutarou-Masuda
+Youhei-Kagawa
+Atsushi-Takeuchi
+Rei-Iwakura
+Naoto-Okada
+
+[2A]
+semifinal 4th
+semifinal 3rd
+semifinal 2nd
+semifinal 1st
+Shuuhei-Kanai
+Tomoyuki-Kaneko
+Hiraku-Fujii
+Ryou-Yamashita
+Takuma-Yamamoto
+
+[5A]
+semifinal 3rd
+semifinal 2nd
+semifinal 1st
+Yoshihiro-Abe
+Hiroyasu-Ishihara
+Naoya-Takeuchi
+Sora-Ishikawa
+Hideo-Ishida
+Takayuki-Kuriyama
+
+[3A]
+semifinal 3rd
+semifinal 2nd
+semifinal 1st
+Kyouhei-Hosono
+Taiichiro-Higashi
+Ryousuke-Ito
+Yasuki-Tachibana
+Mizuki-Takimoto
+Minato-Furuta
+
+[1A]
+semifinal 10th
+semifinal 9th
+semifinal 8th
+semifinal 7th
+semifinal 6th
+semifinal 5th
+semifinal 4th
+semifinal 3rd
+semifinal 2nd
+semifinal 1st
+Hirotaka-Akiba
+Ryousuke-Iwasawa
+Iori-Yamaki
+Shinya-Kido
+Tatsuya-Fujisaka
+Akitoshi-Tokubuchi
