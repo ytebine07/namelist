@@ -1,7 +1,7 @@
 [4A]
-semifinal 3rd
-semifinal 2nd
-semifinal 1st
+Tsubasa-Oonishi
+Keita-Kido
+Haruaki-Nishitani
 Yuudai-Kimura
 Syoutarou-Masuda
 Youhei-Kagawa
@@ -10,10 +10,10 @@ Rei-Iwakura
 Naoto-Okada
 
 [2A]
-semifinal 4th
-semifinal 3rd
-semifinal 2nd
-semifinal 1st
+Yoshihiro-Matubara
+Toshiaki-Oonuma
+Ginji-Miura
+Shuu-Takada
 Shuuhei-Kanai
 Tomoyuki-Kaneko
 Hiraku-Fujii
@@ -21,9 +21,9 @@ Ryou-Yamashita
 Takuma-Yamamoto
 
 [5A]
-semifinal 3rd
-semifinal 2nd
-semifinal 1st
+Junpei-Shimizu
+Sojun-Miyamura
+Takeshi-Matsuura
 Yoshihiro-Abe
 Hiroyasu-Ishihara
 Naoya-Takeuchi
@@ -32,9 +32,9 @@ Hideo-Ishida
 Takayuki-Kuriyama
 
 [3A]
-semifinal 3rd
-semifinal 2nd
-semifinal 1st
+Kentaro-Kimura
+Hajime-Miura
+Takumi-Yasumoto
 Kyouhei-Hosono
 Taiichiro-Higashi
 Ryousuke-Ito
@@ -43,16 +43,16 @@ Mizuki-Takimoto
 Minato-Furuta
 
 [1A]
-semifinal 10th
-semifinal 9th
-semifinal 8th
-semifinal 7th
-semifinal 6th
-semifinal 5th
-semifinal 4th
-semifinal 3rd
-semifinal 2nd
-semifinal 1st
+Kento-Noda
+Touya-Kobayashi
+Atsunori-Tanimoto
+Shion-Araya
+Hiroyuki-Suzuki
+Izuru-Hasumi
+Shinya-Azuma
+Masahiro-Terada
+Kazuki-Okada
+Yuusuke-Ootsuka
 Hirotaka-Akiba
 Ryousuke-Iwasawa
 Iori-Yamaki
